@@ -1,0 +1,6 @@
+- Động từ include đang ở dạng nguyên thể (ko có "s") => Chủ ngữ đứng trước bắt buộc là 1 biến số nhiều
+- Other (Adj): Nó như 1 tag thuộc tính, phải đi kèm một Danh từ đằng sau (VD: Other things). Không thể làm Chủ ngữ
+- Another (Đại từ số ít): Nghĩa là "một cái khác". Nếu dùng nó, động từ **thêm** "s"
+- The other: Từ này dùng để chỉ "cái còn lại duy nhất" trong một tập hợp ĐÃ BIẾT TRƯỚC (Ex: mảng có 2 phần tử, đã nhắc phần tử 1, phần tử kia là the other).
+- Others (Đại từ số nhiều): Có chữ "s" sẵn, đứng một mình làm Chủ ngữ số nhiều
+- 
